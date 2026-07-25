@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/transaction-history-timeout-stuck",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/transaction-history-timeout-stuck": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/transaction-history-timeout-stuck",
+    "origin"
+  ]
+}
